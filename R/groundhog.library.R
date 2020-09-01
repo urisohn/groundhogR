@@ -1,4 +1,4 @@
-#' 8  Final function:   groundhog.library()
+#' Loading CRAN package as available on a given date:   groundhog.library()
 #'
 #' @inheritParams install.snowball
 #' @param ignore.package.conflicts Logical (defaults to `FALSE`). With `TRUE`,
